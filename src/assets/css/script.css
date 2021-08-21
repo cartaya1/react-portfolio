@@ -8,7 +8,7 @@ a.nav-link:hover{
 }
 
 .nav-color{
-  background: linear-gradient(180deg, #010f3e 2%, #0e0512 90%) no-repeat;
+  background: linear-gradient(45deg, rgb(145, 145, 145) 15%, rgb(0, 0, 0) 95%) no-repeat;
 }
 
 /* Profile image */
@@ -50,7 +50,7 @@ a.nav-link:hover{
   font-size: 30px;
   line-height: 45px;
   border-radius: 100%;
-  background: white;
+  background: rgb(255, 255, 255);
 
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
@@ -58,7 +58,7 @@ a.nav-link:hover{
   transition: all .3s ease-in-out;
 }
 
-.header-section .scrolldown a:hover { background-color: #11ABB0; }
+.header-section .scrolldown a:hover { background-color: rgba(255, 255, 255, 0.455); }
 
 /* Horizontal line */
 .line{
@@ -67,16 +67,16 @@ a.nav-link:hover{
 }
 
 #about{
-  background: linear-gradient(45deg, #DAE2F8 30%, #D6A4A4 90%) no-repeat;
+  background: linear-gradient(45deg, rgb(255, 255, 255) 15%, rgb(0, 0, 0) 95%) no-repeat;
 }
 
 #portfolio{
-  background: linear-gradient(45deg, #DAE2F8 30%, #D6A4A4 90%) no-repeat;
+  background: linear-gradient(45deg, rgb(255, 255, 255) 15%, rgb(0, 0, 0) 90%) no-repeat;
 }
 
 .heading{
   /* background: -webkit-linear-gradient(#3a444e, #d84e4e); */
-  background: -webkit-linear-gradient(#575a60, #711a8c);
+  background: whitesmoke;
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -84,8 +84,7 @@ a.nav-link:hover{
 }
 
 .modelHeading{
-  /* background: -webkit-linear-gradient(#3a444e, #d84e4e); */
-  background: -webkit-linear-gradient(#575a60, #9d37bb);
+  background: whitesmoke;
   background-clip: border-box;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -104,8 +103,8 @@ a.nav-link:hover{
 footer{
   position: relative;
   /* background : Radial-gradient(ellipse at bottom,#011968,#0e0512); */
-  background: linear-gradient(0deg, #010f3e 2%, #0e0512 90%) no-repeat;
-  color: #9dc6d8;
+  background: linear-gradient(45deg, rgb(145, 145, 145) 15%, rgb(0, 0, 0) 95%) no-repeat;
+  color: rgb(255, 255, 255);
 }
 
 /* Footer icons */
@@ -139,7 +138,7 @@ footer{
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #4d4d4d;
+	background-color: rgb(120, 120, 120);
 
   color: #fff;
   font-size: 21px;
@@ -147,7 +146,7 @@ footer{
  	border-radius: 100%;
 }
 
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: rgba(0, 0, 0, 0.425); }
 
 
 /* Small Devices */

@@ -19,13 +19,13 @@ export default function About() {
 					<div className="row">
 						<div className="col-md-3 col-sm-12 d-flex align-items-center justify-content-center">
 							<div>
-								<img src={profile} className="d-flex profile-img" alt="Gauri Khandke" />
+								<img src={profile} className="d-flex profile-img" alt="Luis Cartaya" />
 							</div>
 						</div>
 
 						<div
 							className="col-md-9 col-sm-12" style={{ margin: '0 auto', padding: '0 25px'}}	>
-							<p style={{ margin: '20px 10px 0 10px', textAlign: 'justify', fontSize: '1.1em', color:'	#282828' }}>
+							<p style={{ margin: '20px 10px 0 10px', textAlign: 'justify', fontSize: '1.1em', color:' #282828' }}>
 								Passionate full stack web developer from
 								Venezuela and currently living in Kissimmee, FL., effective at combining logical thinking and problem solving to develop
 								user-friendly applications. Completed a certification in full-stack web
@@ -42,7 +42,7 @@ export default function About() {
 								pressure, collaborative communicator. I look forward to bringing my skills and
 								passion for software development to build user focused applications.
 							</p>
-							<p style={{ margin: '20px 10px 0px 10px', textAlign: 'justify', fontSize: '1.1em', color:'	#282828' }}	>
+							<p style={{ margin: '20px 10px 0px 10px', textAlign: 'justify', fontSize: '1.1em', color: ' #282828' }}	>
 								<strong>Contact Email: cartaya1@msn.com</strong>
 							</p>
 						</div>
