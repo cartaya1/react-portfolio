@@ -1,5 +1,3 @@
-# React Portfolio
-
 <h1 align="center">React: New Portfolio</h1>
   
 <p align="center">
@@ -12,7 +10,6 @@
         <img alt="Twitter: cartayas_USA" src="https://img.shields.io/twitter/follow/cartayas_USA.svg?style=social" target="_blank" />
     </a>
 </p>
-
 
 As an Full Stack Web Developer and a member of the dev community, I want to have an portfolio created with the latest technologies to feature a collection of the best projects I have developed so far, So that I can showcase my professional value in a competitive way to employers.
 
@@ -58,7 +55,7 @@ As an Full Stack Web Developer and a member of the dev community, I want to have
 
 ## [Luis Cartaya](https://github.com/cartaya1)
 ## [GitHub](https://cartaya1.github.io/react-portfolio)
-## [Live_Demo](https://cartaya1.github.io/react-portfolio/#portfolio)
+## [Live_Demo](https://cartaya1-new-portfolio.herokuapp.com)
 
 # Questions
-✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com) 
+✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com)
